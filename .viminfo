@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1658192890,,"wq"
+|2,0,1658193276,,"wq"
 :q
 |2,0,1656975554,,"q"
 :w
@@ -32,22 +32,28 @@
 |3,1,36,0,1,0,1656975287,"f"
 
 # File marks:
-'0  1  18  ~/index.html
-|4,48,1,18,1658192890,"~/index.html"
-'1  30  0  ~/.profile
-|4,49,30,0,1656975554,"~/.profile"
+'0  1  15  ~/contact.html
+|4,48,1,15,1658193276,"~/contact.html"
+'1  1  18  ~/index.html
+|4,49,1,18,1658192890,"~/index.html"
 '2  30  0  ~/.profile
-|4,50,30,0,1656975523,"~/.profile"
-'3  31  0  ~/.profile
-|4,51,31,0,1656975495,"~/.profile"
+|4,50,30,0,1656975554,"~/.profile"
+'3  30  0  ~/.profile
+|4,51,30,0,1656975523,"~/.profile"
 '4  31  0  ~/.profile
 |4,52,31,0,1656975495,"~/.profile"
 '5  31  0  ~/.profile
 |4,53,31,0,1656975495,"~/.profile"
 '6  31  0  ~/.profile
 |4,54,31,0,1656975495,"~/.profile"
+'7  31  0  ~/.profile
+|4,55,31,0,1656975495,"~/.profile"
 
 # Jumplist (newest first):
+-'  1  15  ~/contact.html
+|4,39,1,15,1658193276,"~/contact.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1658192890,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1658192890,"~/index.html"
 -'  30  0  ~/.profile
@@ -55,6 +61,14 @@
 -'  30  0  ~/.profile
 |4,39,30,0,1656975554,"~/.profile"
 -'  30  0  ~/.profile
+|4,39,30,0,1656975554,"~/.profile"
+-'  30  0  ~/.profile
+|4,39,30,0,1656975554,"~/.profile"
+-'  30  0  ~/.profile
+|4,39,30,0,1656975523,"~/.profile"
+-'  30  0  ~/.profile
+|4,39,30,0,1656975523,"~/.profile"
+-'  30  0  ~/.profile
 |4,39,30,0,1656975523,"~/.profile"
 -'  30  0  ~/.profile
 |4,39,30,0,1656975523,"~/.profile"
@@ -67,9 +81,33 @@
 -'  31  0  ~/.profile
 |4,39,31,0,1656975496,"~/.profile"
 -'  31  0  ~/.profile
+|4,39,31,0,1656975496,"~/.profile"
+-'  31  0  ~/.profile
+|4,39,31,0,1656975496,"~/.profile"
+-'  31  0  ~/.profile
+|4,39,31,0,1656975496,"~/.profile"
+-'  31  0  ~/.profile
+|4,39,31,0,1656975496,"~/.profile"
+-'  31  0  ~/.profile
 |4,39,31,0,1656975495,"~/.profile"
 -'  31  0  ~/.profile
 |4,39,31,0,1656975495,"~/.profile"
+-'  31  0  ~/.profile
+|4,39,31,0,1656975495,"~/.profile"
+-'  31  0  ~/.profile
+|4,39,31,0,1656975495,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1656975262,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1656975262,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1656975262,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1656975262,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1656975262,"~/.profile"
+-'  1  0  ~/.profile
+|4,39,1,0,1656975262,"~/.profile"
 -'  1  0  ~/.profile
 |4,39,1,0,1656975262,"~/.profile"
 -'  1  0  ~/.profile
@@ -84,6 +122,13 @@
 |4,39,1,0,1656975262,"~/.profile"
 
 # History of marks within files (newest to oldest):
+
+> ~/contact.html
+	*	1658193270	0
+	"	1	15
+	^	1	16
+	.	1	14
+	+	1	14
 
 > ~/index.html
 	*	1658192882	0
